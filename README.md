@@ -1,0 +1,4 @@
+evogochi
+========
+
+Evogochi Android project.
